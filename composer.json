@@ -25,5 +25,7 @@
     "laravel": {
       "providers": ["pinktie\\Presets\\Tabler\\TablerPresetServiceProvider"]
     }
-  }
+  },
+  "minimum-stability": "dev",
+  "version": "1.0.3" 
 }
